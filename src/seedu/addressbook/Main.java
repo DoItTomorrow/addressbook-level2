@@ -21,7 +21,7 @@ import seedu.addressbook.ui.TextUi;
  * Initializes the application and starts the interaction with the user.
  */
 
-//Modification for week 5
+//Dummy modification for week 5
 
 public class Main {
 
